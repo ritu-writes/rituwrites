@@ -1,2 +1,0 @@
-# rituwrites
-My project protfolio
